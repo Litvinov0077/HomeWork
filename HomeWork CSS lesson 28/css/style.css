@@ -1,0 +1,33 @@
+.text-1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-indent: justify;
+    font-style: italic;
+}
+
+.text-2 {
+    font-weight: 700;
+    text-indent: justify;
+    text-decoration: line-through;
+}
+
+.text-3 {
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.text-4 {
+    text-shadow: 3px 3px 3px #eb3b3b;
+    font-size: 30px;
+    text-indent: 40px;
+    word-spacing: 30px;
+    text-decoration: wavy overline #f85a5a;
+}
+
+.text-5 {
+    letter-spacing: 5px;
+    font-size: 30px;
+    text-decoration: double underline #000000 2px;
+}
