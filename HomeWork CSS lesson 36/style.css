@@ -1,0 +1,19 @@
+.section-1 {
+    overflow: auto;
+    background: #fdfde5;
+    height: 500px;
+    border: 1px solid #000;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.block-1 {
+    display: inline-block;
+    height: 180px;
+    width: 200px;
+    background: #79794b;
+    border: 1px solid #000;
+    border-radius: 20px;
+    margin: 10px 10px 10px 5px;
+    padding: 0px 15px 0px 15px;
+    box-shadow: inset 1px 1px 5px #000;
+    }
